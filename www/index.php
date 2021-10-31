@@ -13,7 +13,7 @@
 
     <meta charset="UTF-8">
     <meta name="description" content="">
-    <meta name="keywords" content="STMSNZ, STMS NZ, STMS, Traffic Managment">
+    <meta name="keywords" content="STMSNZ, Traffic Management, Traffic Management Dunedin, STMS NZ, STMS">
     <meta name="author" content="Hayden McAlister">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
