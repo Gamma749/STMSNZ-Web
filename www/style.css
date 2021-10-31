@@ -54,35 +54,6 @@ header h1 {
   margin: 0;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(7, 1fr [col-start]);
-  grid-template-rows: repeat(5, 1fr [row-start]);
-}
-
-.grid-item {
-  padding: 2%;
-}
-
-.image-gallery {
-  margin: 5rem auto 0 auto;
-  max-width: 1200px;
-}
-
-.image-gallery figure {
-  margin: 0;
-  box-shadow: 0 0 0px #888888;
-  transition: var(--transition-speed);
-}
-
-.image-gallery figure:hover {
-  box-shadow: 5px 5px 8px #333333;
-}
-
-.image-gallery img {
-  display: inline;
-  width: 100%;
-}
 
 h2 {
   font-size: 4rem;
@@ -97,13 +68,17 @@ h2 {
   }
 
   header img {
-      display: block;
+    display: block;
     margin: 0 auto;
     height: 12vh;
   }
 
   header h1 {
     font-size: 4rem;
+  }
+
+  main {
+      margin: 0 auto;
   }
 
   h2 {
