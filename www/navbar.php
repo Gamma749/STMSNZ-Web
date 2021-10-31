@@ -13,32 +13,32 @@
         </li>
 
         <li class="nav-item">
-            <a href="#" class="nav-link">
-                <object data="\images\navbar\home.svg" type="image/svg+xml"></object>
+            <a href="index.php" class="nav-link">
+                <img src="\images\navbar\home.svg" />
                 <span class="link-text">Home</span>
             </a>
         </li>
         <li class="nav-item">
-            <a href="#" class="nav-link">
-                <object data="\images\navbar\about.svg" type="image/svg+xml"></object>
+            <a href="about.php" class="nav-link">
+                <img src="\images\navbar\about.svg" />
                 <span class="link-text">About</span>
             </a>
         </li>
         <li class="nav-item">
-            <a href="#" class="nav-link">
-                <object data="\images\navbar\staff.svg" type="image/svg+xml"></object>
+            <a href="staff.php" class="nav-link">
+                <img src="\images\navbar\staff.svg" />
                 <span class="link-text">Staff</span>
             </a>
         </li>
         <li class="nav-item">
-            <a href="#" class="nav-link">
-                <object data="\images\navbar\services.svg" type="image/svg+xml"></object>
+            <a href="services.php" class="nav-link">
+                <img src="\images\navbar\services.svg" />
                 <span class="link-text">Services</span>
             </a>
         </li>
         <li class="nav-item">
-            <a href="#" class="nav-link">
-                <object data="\images\navbar\contact.svg" type="image/svg+xml"></object>
+            <a href="contact.php" class="nav-link">
+                <img src="\images\navbar\contact.svg" />
                 <span class="link-text">Contact</span>
             </a>
         </li>

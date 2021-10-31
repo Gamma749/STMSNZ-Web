@@ -18,6 +18,32 @@
 </head>
 
 <body>
-    <?php include "navbar.php"?>
+    <?php include "navbar.php" ?>
+
+    <main>
+        <?php
+        $pagename = "Home";
+        include "header.php"
+        ?>
+
+        <div class="grid-container image-gallery">
+            <div class="grid-item" style="grid-area: 1 / 1 / 3 / 6;">
+                <figure><img src="images/gallery/stopgo.jpg"></figure>
+            </div>
+            <div class="grid-item" style="grid-area: 1 / 6 / 3 / 8;">
+                <figure><img src="images/gallery/rogerRoadcone.png"></figure>
+            </div>
+            <div class="grid-item" style="grid-area: 3 / 3 / 4 / 8;">
+                <figure>
+                    <img src="images/gallery/SiteWise-Green.jpg">
+                </figure>
+            </div>
+            <div class="grid-item" style="grid-area: 3 / 3 / 4 / 8;">
+                <figure>
+                    <img src="images/gallery/SiteWise-Green.jpg">
+                </figure>
+            </div>
+        </div>
+    </main>
 
 </body>
