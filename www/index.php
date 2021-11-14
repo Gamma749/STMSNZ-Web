@@ -39,23 +39,14 @@
             <div>
                 <p>Here at STMSNZ, we value safety and security above all else. That's why we offer the best traffic management around. From plans and consulting to equipment and execution, STMSNZ is your one-stop-shop for all traffic management needs!</p>
             </div>
-
-        <div class="grid-container image-gallery">
-            <div class="grid-item" style="grid-area: 1 / 1 / 3 / 6;">
-                <figure><img src="images/gallery/stopgo.jpg"></figure>
-            </div>
-            <div class="grid-item" style="grid-area: 1 / 6 / 3 / 8;">
-                <figure><img src="images/gallery/rogerRoadcone.png"></figure>
-            </div>
-            <div class="grid-item" style="grid-area: 3 / 3 / 4 / 8;">
-                <figure>
-                    <img src="images/gallery/SiteWise-Green.jpg">
-                </figure>
-            </div>
-            <div class="grid-item" style="grid-area: 3 / 3 / 4 / 8;">
-                <figure>
-                    <img src="images/gallery/SiteWise-Green.jpg">
-                </figure>
+            <div>
+                <p>The four aims of the company are:</p>
+                <ul>
+                    <li>Safety - Lead by example</li>
+                    <li>Reliability – Deliver on Promise</li>
+                    <li>K.I.S.S. Theory – Do the Basics Brilliantly</li>
+                    <li>Client is Number 1 – We Go Beyond the Call </li>
+                </ul>
             </div>
         </div>
     </main>
