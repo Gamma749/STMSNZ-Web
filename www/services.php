@@ -59,12 +59,12 @@
                 <img src="images/services/traffic-light.jpg">
                 <h3>Traffic Lights</h3>
             </div>
-            <a href="contact.php">
-                <div class="grid-item enquire">
+            <div class="grid-item enquire">
+                <a href="contact.php">
                     <img src="images/arrow.png">
                     <h3>Enquire Today</h3>
-                </div>
-            </a>
+                </a>
+            </div>
         </div>
         <hr>
         <h2>Traffic Management</h2>
@@ -89,12 +89,12 @@
                 <img src="images/services/site-management.jpg">
                 <h3>Site Management</h3>
             </div>
-            <a href="contact.php">
-                <div class="grid-item enquire">
+            <div class="grid-item enquire">
+                <a href="contact.php">
                     <img src="images/arrow.png">
                     <h3>Enquire Today</h3>
-                </div>
-            </a>
+                </a>
+            </div>
         </div>
     </main>
 </body>
