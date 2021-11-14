@@ -26,6 +26,58 @@
         $pagename = "Staff";
         include "header.php"
         ?>
+
+        <h2>In the office</h2>
+        <div class="staff-container">
+            <div class="staff-profile">
+                <figure><img src="images/staff/barbaraHazel.jpg"></figure>
+                <h3>Barbara and Hazel</h3>
+            </div>
+        </div>
+        <hr>
+
+        <h2>Managing the site</h2>
+        <div class="staff-container">
+            <div class="staff-profile">
+                <figure><img src="images/staff/Aaron.jpg"></figure>
+                <h3>Aaron</h3>
+            </div>
+        </div>
+        <hr>
+
+        <h2>In the field</h2>
+        <div class="flex-row">
+            <div class="staff-container">
+                <div class="staff-profile">
+                    <figure><img src="images/staff/Chris.jpg"></figure>
+                    <h3>Chris</h3>
+                </div>
+            </div>
+            <div class="staff-container">
+                <div class="staff-profile">
+                    <figure><img src="images/staff/Dave.jpg"></figure>
+                    <h3>Dave</h3>
+                </div>
+            </div>
+            <div class="staff-container">
+                <div class="staff-profile">
+                    <figure><img src="images/staff/Jack2.png"></figure>
+                    <h3>Jack</h3>
+                </div>
+            </div>
+            <div class="staff-container">
+                <div class="staff-profile">
+                    <figure><img src="images/staff/Jordi.png"></figure>
+                    <h3>Jordi</h3>
+                </div>
+            </div>
+            <div class="staff-container">
+                <div class="staff-profile">
+                    <figure><img src="images/staff/Jack.jpg"></figure>
+                    <h3>Jack</h3>
+                </div>
+            </div>
+        </div>
     </main>
 </body>
 
