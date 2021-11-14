@@ -30,28 +30,15 @@
         include "header.php"
         ?>
 
-        <div class="image-slideshow">
-            <?php
-            $images = array("stopgo.jpg", "wetroad.jpg", "t8-traffic-control-contact-banner2.jpg", "Levels-of-Temporary-Traffic-Management-TTM.jpg");
-            $num_images = count($images);
-            foreach ($images as $index => $image) {
-                echo "<div class=\"slide fade\">
-                        <div class=\"numbertext\">" . ($index + 1) . " / $num_images</div>
-                        <img src=\"images/gallery/$image\">
-                    </div>";
-            }
-            ?>
-            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        <div id="landing">
+            <!-- <img src="images/gallery/Levels-of-Temporary-Traffic-Management-TTM.jpg"> -->
+            <h1>Welcome to</h1>
+            <img src="images/logo_large.png">
         </div>
-        <br>
-        <div style="text-align:center">
-            <?php
-            foreach ($images as $index => $image){
-                echo "<span class=\"dot\" onclick=\"currentSlide(". ($index + 1).")\"></span>";
-            }
-            ?>
-        </div>
+        <div class="flex-row">
+            <div>
+                <p>Here at STMSNZ, we value safety and security above all else. That's why we offer the best traffic management around. From plans and consulting to equipment and execution, STMSNZ is your one-stop-shop for all traffic management needs!</p>
+            </div>
 
         <div class="grid-container image-gallery">
             <div class="grid-item" style="grid-area: 1 / 1 / 3 / 6;">
